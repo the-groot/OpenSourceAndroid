@@ -37,3 +37,24 @@ FinalApp
 </ol>
 
 ![finalapp3-1](https://user-images.githubusercontent.com/46774346/158590398-8b8880b9-d67a-476f-8168-c4050eaf9075.png)
+
+
+<br>
+<br>
+<br>
+
+### 3주차
+
+<hr>
+
+Calculator  
+<ol>
+<li> 사용자로부터 수 2개 입력받음 </li>
+<li> 더하기 값 출력 </li>
+<li> 빼기 값 출력 </li>
+<li> 곱하기 값 출력 </li>
+<li> 나누기 값 출력 </li>
+</ol>
+
+
+![cal2](https://user-images.githubusercontent.com/46774346/161206740-56c95df6-a0a2-47b5-acfe-a8e6fe155c6d.png)
