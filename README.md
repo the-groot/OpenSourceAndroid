@@ -58,3 +58,22 @@ Calculator
 
 
 ![cal2](https://user-images.githubusercontent.com/46774346/161206740-56c95df6-a0a2-47b5-acfe-a8e6fe155c6d.png)
+
+<br>
+<br>
+
+Calculator2
+<ol>
+<li> 사용자로부터 실수 2개 입력받음 </li>
+<li> 사용자로부터 실수 1개 이하로 입력받으면 오류메시지 출력 </li>
+<li> 0으로 나누기, 나머지구하려고 하면 오류메시지 출력 </li>
+<li> 더하기 값 출력 </li>
+<li> 빼기 값 출력 </li>
+<li> 곱하기 값 출력 </li>
+<li> 나누기 값 출력 </li>
+<li> 나머지 값 출력 </li>
+</ol>
+
+![easycal6](https://user-images.githubusercontent.com/46774346/161207853-77166cb2-16fd-4fa8-a2c1-1b55c64ee4d7.png)
+
+
