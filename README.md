@@ -76,4 +76,13 @@ Calculator2
 
 ![easycal6](https://user-images.githubusercontent.com/46774346/161207853-77166cb2-16fd-4fa8-a2c1-1b55c64ee4d7.png)
 
+<br>
+<br>
+AnimalPicture
+<ol>
+<li> 시작함 체크박스 클릭하면 라디오 버튼 및 버튼 나타남 </li>
+<li> 강아지, 고양이, 호랑이 중 한가지 선택후 선택완료 버튼클릭하면 이미지 출력 </li>
+<li> 아무것도 선택하지않고 선택완료버튼을 클릭하면 toast message 출력 </li>
+</ol>
+![animal4](https://user-images.githubusercontent.com/46774346/161209705-47457909-1318-4519-b476-67828b44b5c4.pn
 
