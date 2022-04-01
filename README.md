@@ -84,5 +84,5 @@ AnimalPicture
 <li> 강아지, 고양이, 호랑이 중 한가지 선택후 선택완료 버튼클릭하면 이미지 출력 </li>
 <li> 아무것도 선택하지않고 선택완료버튼을 클릭하면 toast message 출력 </li>
 </ol>
-![animal4](https://user-images.githubusercontent.com/46774346/161209705-47457909-1318-4519-b476-67828b44b5c4.png)
+![animal4](https://user-images.githubusercontent.com/46774346/161210346-b144f55b-c3b9-4c27-bdba-7426d2382f89.png)
 
