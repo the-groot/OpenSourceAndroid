@@ -84,6 +84,7 @@ AnimalPicture
 <li> 강아지, 고양이, 호랑이 중 한가지 선택후 선택완료 버튼클릭하면 이미지 출력 </li>
 <li> 아무것도 선택하지않고 선택완료버튼을 클릭하면 toast message 출력 </li>
 </ol>
+
 ![animal4](https://user-images.githubusercontent.com/46774346/161210346-b144f55b-c3b9-4c27-bdba-7426d2382f89.png)
 
 <br>
@@ -95,6 +96,7 @@ AndroidPicture
 <li> 처음으로 버튼 클릭하면 스위치 초기화 </li>
 <li> 종료버튼 클릭하면 종료 </li>
 </ol>
+
 ![android6](https://user-images.githubusercontent.com/46774346/161211659-5bea957b-10de-4c65-b18b-76f8cbb54a61.png)
 
 
